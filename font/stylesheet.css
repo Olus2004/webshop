@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Intrepid';
+    src: url('Intrepid.woff2') format('woff2'),
+        url('Intrepid.woff') format('woff'),
+        url('Intrepid.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
